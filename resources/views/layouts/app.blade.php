@@ -25,7 +25,7 @@
     <x-nav />
     {{-- navbar --}}
     {{-- content --}}
-    <div class="pt-10">
+    <div class="pt-20">
         @yield('content')
     </div>
     {{-- content --}}
